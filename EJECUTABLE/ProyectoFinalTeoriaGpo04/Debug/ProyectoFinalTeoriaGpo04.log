@@ -1,0 +1,9 @@
+﻿  315288380_PROYECTO_GPO_4.cpp
+C:\Users\princ\Desktop\Clases 3\COMPUTACIÓN GRÁFICA\PROYECTO\ProyectoFinalTeoriaGpo04\ProyectoFinalTeoriaGpo04\315288380_PROYECTO_GPO_4.cpp(378,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\princ\Desktop\Clases 3\COMPUTACIÓN GRÁFICA\PROYECTO\ProyectoFinalTeoriaGpo04\ProyectoFinalTeoriaGpo04\315288380_PROYECTO_GPO_4.cpp(880,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\princ\Desktop\Clases 3\COMPUTACIÓN GRÁFICA\PROYECTO\ProyectoFinalTeoriaGpo04\ProyectoFinalTeoriaGpo04\315288380_PROYECTO_GPO_4.cpp(881,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\princ\Desktop\Clases 3\COMPUTACIÓN GRÁFICA\PROYECTO\ProyectoFinalTeoriaGpo04\ProyectoFinalTeoriaGpo04\315288380_PROYECTO_GPO_4.cpp(885,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\princ\Desktop\Clases 3\COMPUTACIÓN GRÁFICA\PROYECTO\ProyectoFinalTeoriaGpo04\ProyectoFinalTeoriaGpo04\315288380_PROYECTO_GPO_4.cpp(886,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\princ\Desktop\Clases 3\COMPUTACIÓN GRÁFICA\PROYECTO\ProyectoFinalTeoriaGpo04\ProyectoFinalTeoriaGpo04\315288380_PROYECTO_GPO_4.cpp(888,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\princ\Desktop\Clases 3\COMPUTACIÓN GRÁFICA\PROYECTO\ProyectoFinalTeoriaGpo04\ProyectoFinalTeoriaGpo04\315288380_PROYECTO_GPO_4.cpp(889,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  ProyectoFinalTeoriaGpo04.vcxproj -> C:\Users\princ\Desktop\Clases 3\COMPUTACIÓN GRÁFICA\PROYECTO\ProyectoFinalTeoriaGpo04\Debug\ProyectoFinalTeoriaGpo04.exe
